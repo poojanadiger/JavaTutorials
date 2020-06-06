@@ -5,7 +5,7 @@ Java is a programming language.  Java is used to develop mobile apps, web apps, 
 Learn by examples! This tutorial supplements all explanations with clarifying examples.
 This tutorial will teach you the basics of Java.
 
-Java Install 
+Java Installation:
 Some PCs might have Java already installed. 
 
 In Linux to check it use the command:
